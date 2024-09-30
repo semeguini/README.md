@@ -15,12 +15,12 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>The Weeknd</h1>
+            <p>#The Hills</p>
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE"
+            <iframe width="560" height="315" src="https://youtu.be/yzTuBuRdAyA?si=gbGUGviTBUEAYhCt"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,22 +28,22 @@
     </section>
 
     <section class="categoria">
-        <h2>Filmes e séries</h2>
+        <h2>Clipes</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+            <a href="https://youtu.be/v5PZw1Wr-l0?si=VXT1FmrayhC5Msi6">
+                <img src="https://youtu.be/v5PZw1Wr-l0?si=VXT1FmrayhC5Msi6" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+            <a href="https://youtu.be/rD19YpIp0LQ?si=IyV59YDvy-8zOR81">
+                <img src="https://youtu.be/rD19YpIp0LQ?si=IyV59YDvy-8zOR81" />
             </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+            <a href="https://youtu.be/M4ZoCHID9GI?si=xUA_vcDIJkbB89nj">
+                <img src="https://youtu.be/M4ZoCHID9GI?si=xUA_vcDIJkbB89nj" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+            <a href="https://youtu.be/Mx92lTYxrJQ?si=r_PK8nXZWtXj--80">
+                <img src="https://youtu.be/Mx92lTYxrJQ?si=r_PK8nXZWtXj--80" />
             </a>
-            <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
-                <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
+            <a href="https://youtu.be/2AH5l-vrY9Q?si=Hw1isabGrp2pRjtA">
+                <img src="https://youtu.be/2AH5l-vrY9Q?si=Hw1isabGrp2pRjtA" />
             </a>
         </div>
     </section>
